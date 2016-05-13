@@ -1,0 +1,7 @@
+{ "display_name":"Docker UCP Plugin",
+  "description": "A collectd python plugin for monitoring events logged by Docker UCP",
+  "code": "https://github.com/signalfx/collectd-docker-ucp",
+  "featured": false,
+  "logo_large": "https://myavantiservices.files.wordpress.com/2015/02/helloworld.gif",
+  "logo_small": "https://myavantiservices.files.wordpress.com/2015/02/helloworld.gif"
+}
