@@ -90,7 +90,7 @@ SignalFx version of collectd is released under the Apache 2.0 license. See LICEN
 Collectd can talk through an http proxy if needed. The changes would need to be made on files that are sourced by the init scripts.
 
 On CentOS:
-* Modify/Create either of the following files: '/etc/sysconfig/collectd' or '/etc/default/collectd'
+* Modify/Create the following files: '/etc/sysconfig/collectd' 
 
 On RHEL:
 * Modify/Create the following file: '/etc/sysconfig/collectd'
